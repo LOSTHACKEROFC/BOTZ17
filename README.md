@@ -1,6 +1,6 @@
 ## If You Dont Know How To Install And Run Bot Watch Video Below 
 ```bash
-> https://youtu.be/TZP6iKGnINo
+> https://youtu.be/OfBbZvCX2Ys
 ```
 
 <div align="center">

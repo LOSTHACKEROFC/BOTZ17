@@ -1,16 +1,115 @@
-# BOTZ17
- #### HOW TO DEPLOY ?? [` HOW TO ACTIVATE BOT ✨`](https://youtu.be/PUFUJAgMxO0) 
+## If You Dont Know How To Install And Run Bot Watch Video Below 
+```bash
+> https://youtu.be/TZP6iKGnINo
+```
+                   ##BOTZ17 BY CHIRAG YOUTUBER
+```<div align="center">
+<img src="logo.jpg" alt="CHIRAG YOUTUBER" width="170" />```
+## About Bot
+```bash
+> This Bot Is Still Under Construction
+> contact me on whats app for help : +919536476115
+```
+```bash
+> Fixed Baileys Error
+> Fixed Odd Group Id Error
+```
+## Getting Started
 
+This project require NodeJS v12.
 
+# 📝 Prerequisites
+```bash
+- git
+- npm >=2.0.32
+- node >=12.18.3
+```
+##Requirements
+```bash
+> nodejs
+> libwebp
+> ffmpeg
+```
+### Installation In TERMUX
 
-<div align="center">
-</p>
+```bash
+> pkg install git -y
+> pkg install bash -y
+> git clone https://github.com/LOSTHACKEROFC/BOTZ17.git
+> cd BOTZ17
+> pkg install unzip
+> unzip 'WHATSAPP BOTZ17'
+> bash install.sh
+> npm install
+> npm start
+```
+### Installation In Linux
+```bash
+> sudo apt-get install git
+> sudo apt-get update
+> sudo apt-get upgrade
+> sudo apt-get install ffmpeg
+> sudo apt-get install libwebp
+> sudo apt-get install nodejs
+> git clone https://github.com/LOSTHACKEROFC/BOTZ17.git
+> cd BOTZ17
+> pkg install unzip
+> unzip 'WHATSAPP BOTZ17'
+> bash install.sh
+> npm install
+> npm start
+```
+### Prefix = #
+| menu |                Feature           |
+| :-----------: | :--------------------------------: |
+|       ✅       | #help                       |
+|       ✅       | #menu                       |
+|       ✅       | listmsg feature             |
+|       ✅       | button msg feature          |
+| Group |                     Feature                |
+| :------------: | :---------------------------------------------: |
+|       ✅        |  #hidetag               |
+|       ✅        |  #group close        |
+|       ✅        |  #add              |
+|       ✅        |  #kick              |
+|       ✅        |  #tagall              |
+|       ✅        |  #enable antisticker              |
+|       ✅        |  #leave              |
+|       ✅        |  #promote              |
+|       ✅        |  #demote              |
+|       ✅        |  #enable antidelete          |
+|       ✅        |  #enable antilink            |
+|       ✅        |  #enable antivulgar
+| MEDIA |                     Feature                |
+| :------------: | :---------------------------------------------: |
+|       ✅        |  #play              |
 
+| ADVANCE |                     Feature                |
+| :------------: | :---------------------------------------------: |
+|       ✅        |  bot             |
+|       ✅        |  hello             |
+|       ✅        |  how are you             |
+|       ✅        |  AslamuAlikum             |
+|       ✅        |  wassup             |
+|       ✅        |  baka             |
+|       ✅        |  gay            |
+|       ✅        |  bruh             |
+|       ✅        |  #info             |
+|       ✅        |  #donations        |
+|       ✅        |  #owner            |
+|       ✅        |  #rules            |
+|       ✅        |  #support          |
+|       ✅        |  #profile          |
+| VOICE |                     Feature                |
+| :------------: | :---------------------------------------------: |
+|       ✅        |  #tts             |
+| Fun Side  |                     Feature                |
+| :------------: | :---------------------------------------------: |
+|       ✅        |   #ttt           |
+|       ✅        |   #whoami        | 
+|       ✅        |   #pwd           |
+|       ✅        |   #ls            |
 
-<div align="center">
-<img src="logo.jpg" alt="CHIRAG YOUTUBER" width="170" />
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com) 
 <p align="center">
  <a href="github.com/LOSTHACKEROFC"><img title="Author" src="https://img.shields.io/badge/Author-CHIRAG YOUTUBER-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+919536476115?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-CHIRAG YOUTUBER-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
@@ -25,11 +124,8 @@
 </p>
 </div>
 
-```
-
-
-
-
-# Thanks to
-* CHIRAG YOUTUBER 
-* [`CHIRAG YOUTUBER `](https://github.com/LOSTHACKEROFC)
+## 🙏Special Thanks To
+<ul>
+<li>CHIRAG YOUTUBER<br>
+<li>NYLA<br>
+</li>

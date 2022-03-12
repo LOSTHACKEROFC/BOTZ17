@@ -3,8 +3,8 @@
 > https://youtu.be/TZP6iKGnINo
 ```
                    ##BOTZ17 BY CHIRAG YOUTUBER
-```<div align="center">
-<img src="logo.jpg" alt="CHIRAG YOUTUBER" width="170" />```
+<div align="center">
+<img src="logo.jpg" alt="CHIRAG YOUTUBER" width="170" />
 ## About Bot
 ```bash
 > This Bot Is Still Under Construction
